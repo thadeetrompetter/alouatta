@@ -1,0 +1,30 @@
+{
+  "name": "alouatta",
+  "version": "1.0.0",
+  "description": "alouatta.org website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thadeetrompetter/alouatta.git"
+  },
+  "author": "Thadee Trompetter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thadeetrompetter/alouatta/issues"
+  },
+  "homepage": "https://github.com/thadeetrompetter/alouatta#readme",
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "gulp-minify-html": "^1.0.4",
+    "lodash.assign": "^3.2.0",
+    "marked": "^0.3.5",
+    "swig": "^1.4.2",
+    "through2": "^2.0.0",
+    "vinyl": "^0.5.1",
+    "watchify": "^3.4.0"
+  }
+}

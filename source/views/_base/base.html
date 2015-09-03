@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="nl" {% block htmlAttributes %}{% endblock -%}>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width">
+        <title>{%- block title %}Alouatta{% endblock -%}</title>
+    </head>
+    <body {% block bodyAttributes %}{% endblock -%}>
+        {%- block body %}
+            {%- block header %}
+                hoi
+            {% endblock -%}
+            <main>
+            {% block content %}{% endblock %}
+            <main>
+            {%- block footer %}
+
+            {% endblock -%}
+        {% endblock -%}
+    </body>
+</html>

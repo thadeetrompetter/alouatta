@@ -1,4 +1,9 @@
 {% extends "views/_base/base.html" %}
 {% block content %}
-{{ content | raw }}
+{% for section in sections %}
+<section class="page-section">
+    <a id="{{ section.name }}">{{ section.name }}</a>
+    {{ section.content | raw }}
+</section>
+{% endfor %}
 {% endblock %}

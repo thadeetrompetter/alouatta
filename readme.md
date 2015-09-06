@@ -3,13 +3,16 @@
 ## todo
 
 ### automated tasks
-- [ ] gulp skeleton
+- [x] gulp skeleton
 - [x] markdown processor
-- [x] templates (swig or nunjucks)
-- [ ] less
+- [x] templates
+- [x] less
 - [x] browserify
-- [ ] karma
-- [ ] deployment to github pages with travis
+- [ ] file watchers
+- [ ] asset processing
+- [ ] linting
+- [ ] karma (unit tests)
+- [ ] deploy with travis
 
 ### front-end
 - [ ] boilerplate html

@@ -6,11 +6,10 @@ var config = require('../config'),
     template = require('lib/template-render');
 
 module.exports = function buildHtml() {
-
     return gulp.src(config.html)
         .pipe(md())
         .pipe(meta())
         .pipe(template())
         .pipe(prettify())
-        .pipe(gulp.dest('./dist/'));
+        .pipe(gulp.dest(config.dist));
 };

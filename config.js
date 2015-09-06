@@ -7,5 +7,14 @@ module.exports = {
     ],
     meta: 'meta.json',
     script: './source/main.js',
-    distAssets: './dist/assets'
+    dist: './dist',
+    distAssets: './dist/assets',
+    paths: {
+        lessFiles: './source/**/*.less',
+        jsFiles: './source/**/*.js',
+        htmlFiles: [
+            './source/**/*.html',
+            './pages/**/*.md'
+        ]
+    }
 };

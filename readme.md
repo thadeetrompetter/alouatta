@@ -8,7 +8,7 @@
 - [x] templates
 - [x] less
 - [x] browserify
-- [ ] file watchers
+- [x] file watchers
 - [ ] asset processing
 - [ ] linting
 - [ ] karma (unit tests)

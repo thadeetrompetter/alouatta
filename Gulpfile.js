@@ -8,12 +8,19 @@ var config = require('./config'),
             name: 'build-html'
         },{
             name: 'build-js',
-            variations: [{
-                name: 'watch',
-                args: {
-                    watch: true
+            variations: [
+                {
+                    name: 'watch',
+                    args: {
+                        watch: true
+                    }
+                },{
+                    name:'production',
+                    args: {
+                        production: true
+                    }
                 }
-            }]
+            ]
         }
     ]);
     // ./node_modules/lib is symlinked to ./lib, so you can avoid using long

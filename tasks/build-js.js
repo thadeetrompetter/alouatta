@@ -8,12 +8,16 @@ var assign = require('lodash.assign'),
     watchifyOptions;
 
 browserifyOptions = {
-    entries: [ config.script ]
+    entries: [ config.script ],
+    debug: true
 };
-watchifyOptions = assign({}, watchify.args, browserifyOptions);
 
 module.exports = function (opts) {
     var options = opts || {};
+    if(options.production){
+        browserifyOptions.debug = false;
+    }
+    watchifyOptions = assign({}, watchify.args, browserifyOptions);
     var b = browserify(options.watch ? browserifyOptions : watchifyOptions);
 
     if(options.watch){

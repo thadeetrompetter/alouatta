@@ -1,10 +1,13 @@
 var assign = require('lodash.assign'),
     browserify = require('browserify'),
     browserifyOptions,
+    buffer = require('vinyl-buffer'),
     config = require('../config'),
     gulp = require('gulp'),
     gutil = require('gulp-util'),
     source = require('vinyl-source-stream'),
+    sourcemaps = require('gulp-sourcemaps'),
+    uglify = require('gulp-uglify'),
     watchify = require('watchify'),
     watchifyOptions;
 
@@ -29,6 +32,10 @@ module.exports = function (opts) {
     function bundle() {
         return b.bundle()
             .pipe(source(config.script))
+            .pipe(buffer())
+            .pipe(sourcemaps.init({loadMaps: true}))
+                .pipe(uglify())
+            .pipe(sourcemaps.write('./'))
             .pipe(gulp.dest(config.distAssets));
     }
     return bundle();

@@ -3,6 +3,7 @@ var assign = require('lodash.assign'),
     browserifyOptions,
     config = require('../config'),
     gulp = require('gulp'),
+    gutil = require('gulp-util'),
     source = require('vinyl-source-stream'),
     watchify = require('watchify'),
     watchifyOptions;
@@ -22,8 +23,13 @@ module.exports = function (opts) {
 
     if(options.watch){
         b = watchify(b);
+        b.on('update', bundle);
+        b.on('error', gutil.log);
     }
-    return b.bundle()
-        .pipe(source(config.script))
-        .pipe(gulp.dest(config.distAssets));
+    function bundle() {
+        return b.bundle()
+            .pipe(source(config.script))
+            .pipe(gulp.dest(config.distAssets));
+    }
+    return bundle();
 };

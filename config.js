@@ -1,4 +1,5 @@
 module.exports = {
+    css: './source/main.less',
     taskDir: './tasks',
     pages: './pages',
     html: [

@@ -21,6 +21,8 @@ var config = require('./config'),
                     }
                 }
             ]
+        },{
+            name: 'build-css'
         }
     ]);
     // ./node_modules/lib is symlinked to ./lib, so you can avoid using long

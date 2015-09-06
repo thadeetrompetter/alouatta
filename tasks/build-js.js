@@ -7,6 +7,7 @@ var assign = require('lodash.assign'),
     gutil = require('gulp-util'),
     source = require('vinyl-source-stream'),
     sourcemaps = require('gulp-sourcemaps'),
+    through = require('through2'),
     uglify = require('gulp-uglify'),
     watchify = require('watchify'),
     watchifyOptions;
@@ -32,6 +33,7 @@ module.exports = function (opts) {
     function bundle() {
         return b.bundle()
             .pipe(source(config.script))
+            .pipe(adjustPath())
             .pipe(buffer())
             .pipe(sourcemaps.init({loadMaps: true}))
                 .pipe(uglify())
@@ -40,3 +42,9 @@ module.exports = function (opts) {
     }
     return bundle();
 };
+function adjustPath() {
+    return through.obj(function (file, enc, cb) {
+        file.path = file.path.replace('/source','');
+        cb(null, file);
+    });
+}

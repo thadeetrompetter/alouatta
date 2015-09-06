@@ -22,12 +22,20 @@ var config = require('./config'),
                 }
             ]
         },{
-            name: 'build-css'
+            name: 'build-css',
+            variations: [
+                {
+                    name:'production',
+                    args: {
+                        production: true
+                    }
+                }
+            ]
         }
     ]);
     // ./node_modules/lib is symlinked to ./lib, so you can avoid using long
     // require paths
     // test = require('lib/test');
 
-gulp.task('default', ['build-html']);
+gulp.task('default', ['build-html', 'build-css', 'build-js']);
 gulp.task('js', ['build-js:watch']);

@@ -1,4 +1,5 @@
-var assign = require('lodash.assign'),
+var adjustPath = require('lib/helpers').adjustPath,
+    assign = require('lodash.assign'),
     browserify = require('browserify'),
     browserifyOptions,
     buffer = require('vinyl-buffer'),
@@ -33,7 +34,7 @@ module.exports = function (opts) {
     function bundle() {
         return b.bundle()
             .pipe(source(config.script))
-            .pipe(adjustPath())
+            .pipe(adjustPath('/source',''))
             .pipe(buffer())
             .pipe(sourcemaps.init({loadMaps: true}))
                 .pipe(uglify())
@@ -42,9 +43,3 @@ module.exports = function (opts) {
     }
     return bundle();
 };
-function adjustPath() {
-    return through.obj(function (file, enc, cb) {
-        file.path = file.path.replace('/source','');
-        cb(null, file);
-    });
-}

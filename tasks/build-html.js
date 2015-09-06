@@ -2,6 +2,7 @@ var config = require('../config'),
     gulp = require('gulp'),
     md = require('lib/md'),
     meta = require('lib/meta'),
+    pathToDistRoot = require('lib/helpers').pathToDistRoot,
     prettify = require('gulp-html-prettify'),
     template = require('lib/template-render');
 
@@ -11,5 +12,6 @@ module.exports = function buildHtml() {
         .pipe(meta())
         .pipe(template())
         .pipe(prettify())
+        .pipe(pathToDistRoot())
         .pipe(gulp.dest(config.dist));
 };

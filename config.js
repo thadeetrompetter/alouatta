@@ -4,5 +4,7 @@ module.exports = {
     html: [
         'source/views/[^_]*/*.html'
     ],
-    meta: 'meta.json'
+    meta: 'meta.json',
+    script: './source/main.js',
+    distAssets: './dist/assets'
 };

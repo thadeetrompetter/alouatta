@@ -6,6 +6,14 @@ var config = require('./config'),
     gulp = require(config.taskDir)([
         {
             name: 'build-html'
+        },{
+            name: 'build-js',
+            variations: [{
+                name: 'watch',
+                args: {
+                    watch: true
+                }
+            }]
         }
     ]);
     // ./node_modules/lib is symlinked to ./lib, so you can avoid using long
@@ -13,3 +21,4 @@ var config = require('./config'),
     // test = require('lib/test');
 
 gulp.task('default', ['build-html']);
+gulp.task('js', ['build-js:watch']);

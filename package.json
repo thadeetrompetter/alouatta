@@ -25,6 +25,7 @@
     "marked": "^0.3.5",
     "swig": "^1.4.2",
     "through2": "^2.0.0",
+    "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.4.0"
   }
 }

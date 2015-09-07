@@ -7,8 +7,12 @@
 - [x] markdown processor
 - [x] templates
 - [x] less
+    - [x] sourcemaps
+    - [x] minification
+    - [x] autoprefixer
 - [x] browserify
 - [x] file watchers
+- [ ] browser sync
 - [ ] asset processing
 - [ ] linting
 - [ ] karma (unit tests)

@@ -1,4 +1,5 @@
-var config = require('../config'),
+var autoprefix = require('gulp-autoprefixer'),
+    config = require('../config'),
     gulp = require('gulp'),
     gulpif = require('gulp-if'),
     less = require('gulp-less'),
@@ -10,6 +11,7 @@ module.exports = function buildCss(opts) {
     return gulp.src(config.css, {base: './source'})
         .pipe(gulpif(!options.production, sourcemaps.init()))
             .pipe(less())
+            .pipe(autoprefix())
             .pipe(gulpif(opts.production, minify()))
         .pipe(gulpif(!options.production, sourcemaps.write()))
         .pipe(gulp.dest(config.distAssets));

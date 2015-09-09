@@ -12,9 +12,10 @@
     - [x] autoprefixer
 - [x] browserify
 - [x] file watchers
-- [ ] browser sync
+- [x] browser sync
 - [ ] asset processing
-- [ ] linting
+- [x] linting js
+- [ ] linting less/css
 - [ ] karma (unit tests)
 - [ ] deploy with travis
 

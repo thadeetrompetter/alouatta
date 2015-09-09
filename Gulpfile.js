@@ -48,6 +48,23 @@ var browserSync = require('browser-sync').create('aloutta'),
                     }
                 }
             ]
+        },{
+            name: 'test-css'
+        },{
+            name:'test-js',
+            variations:[
+                {
+                    name:'style',
+                    args:{
+                        action: 'style'
+                    }
+                },{
+                    name:'hint',
+                    args:{
+                        action: 'hint'
+                    }
+                }
+            ]
         }
     ]);
     // ./node_modules/lib is symlinked to ./lib, so you can avoid using long

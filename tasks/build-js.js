@@ -8,6 +8,7 @@ var adjustPath = require('lib/helpers').adjustPath,
     gutil = require('gulp-util'),
     source = require('vinyl-source-stream'),
     sourcemaps = require('gulp-sourcemaps'),
+    syncAssets = require('lib/helpers').syncAssets,
     through = require('through2'),
     uglify = require('gulp-uglify'),
     watchify = require('watchify'),
@@ -19,7 +20,9 @@ browserifyOptions = {
 };
 
 module.exports = function (opts) {
-    var options = opts || {};
+    var options = opts || {},
+        serve = syncAssets(options.server);
+
     if(options.production){
         browserifyOptions.debug = false;
     }
@@ -39,7 +42,8 @@ module.exports = function (opts) {
             .pipe(sourcemaps.init({loadMaps: true}))
                 .pipe(uglify())
             .pipe(sourcemaps.write('./'))
-            .pipe(gulp.dest(config.distAssets));
+            .pipe(gulp.dest(config.distAssets))
+            .pipe(serve());
     }
     return bundle();
 };

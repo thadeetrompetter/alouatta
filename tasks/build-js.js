@@ -9,7 +9,6 @@ var adjustPath = require('lib/helpers').adjustPath,
     source = require('vinyl-source-stream'),
     sourcemaps = require('gulp-sourcemaps'),
     syncAssets = require('lib/helpers').syncAssets,
-    through = require('through2'),
     uglify = require('gulp-uglify'),
     watchify = require('watchify'),
     watchifyOptions;

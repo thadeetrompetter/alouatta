@@ -15,7 +15,7 @@
 - [x] browser sync
 - [ ] asset processing
 - [x] linting js
-- [ ] linting less/css
+- [x] linting less/css
 - [ ] karma (unit tests)
 - [ ] deploy with travis
 

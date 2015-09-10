@@ -10,7 +10,8 @@ var config = require('../config'),
 var actions = {
     hint: lazypipe()
             .pipe(jshint)
-            .pipe(jshint.reporter, stylish),
+            .pipe(jshint.reporter, stylish)
+            .pipe(jshint.reporter, 'fail'),
     style: lazypipe()
             .pipe(jscs)
 };

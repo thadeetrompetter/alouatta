@@ -21,6 +21,7 @@
     "browserify": "^11.0.1",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.0.1",
+    "gulp-csslint": "^0.2.0",
     "gulp-html-prettify": "0.0.1",
     "gulp-if": "^1.2.5",
     "gulp-jscs": "^2.0.0",

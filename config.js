@@ -12,7 +12,10 @@ module.exports = {
     paths: {
         assets: './source/components/*/assets/**/*.*',
         lessFiles: './source/**/*.less',
-        jsFiles: './source/**/*.js',
+        jsFiles: [
+            './source/**/*.js',
+            '!./source/components/*/assets/**/*.js'
+        ],
         htmlFiles: [
             './source/**/*.html',
             './pages/**/*.md'

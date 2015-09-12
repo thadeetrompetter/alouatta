@@ -85,3 +85,12 @@ gulp.task('serve', ['default'], function (done) {
         server:config.dist
     }, done);
 });
+gulp.task('deploy', [
+    'build-html',
+    'build-css:production',
+    'build-js:production',
+    'assets'
+]);
+gulp.task('test-lint', [
+    'test-js:hint'
+]);

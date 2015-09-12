@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+- '0.12'
+env:
+  global:
+  - secure: G4SCToOEpD4JPCa3zbQc0L9yrcT2LtqVLPRkcFMK+AleLjWm/3WSr3VW46VvYE+5yfmViVMJMw0GuapBjpjWbWAkxoaclpKkdV6ckprjEs0qr2zEpru0h36zDWibIkzjV939CGOlHJXxySwRV+BQPfXplcTDlCSo9A1Rxx2fBdy7DOkhjrei89T6tTz61y/BQmt7AZZJmSm8/kZDyLRcdiZtnf554MIEvdTXBkWRsy2DyOGJWoXeJohLEJt/SzgiZA+ydYhEGem8JOdX/JhyJD9ywXh2fJlb7zTEaHjJuCul1dKX/nWjVOQjCIDLAaRZp+uPidCC9a6Ia6sv42bMIIVWi0KR1n8DH7PniFVt7qFxwkpHhWbOuCBiBhYwtOJvl7bDec+tm47OlO0MIMqGu+P5vvr5h8lGevknYePuNhCUGUhPEO1VuF1DftU0fqYP+GOqzIVJpCGcQPcKp+CWERTywxvJXeEFwwS/1k0yV/pqL7ee9+AF5DfpdJbaP0YoeV3MJv5jl4EUi2C1BLyN7jU1yt6WCzP5kYWWcSF9/TnWp6pCff1EvtiMY45gi3/cyvolFz5tdIdumLcipjFt2oW81NldQfQb6l608xzzBkRNY02hFVWhx91sBCj5vAAc8OhHalnICYolpKwS0aQOXwj+CU5yZBMBaictsTSZqVQ=
+  - USER=travis
+  - WWW=~/www
+script:
+  - npm run test
+  - npm run deploy
+addons:
+  ssh_known_hosts:
+  - ${SERVER}
+before_install:
+- openssl aes-256-cbc -K $encrypted_d88b5ec92354_key -iv $encrypted_d88b5ec92354_iv
+  -in travis_id.enc -out travis_id -d
+after_success:
+  - chmod 400 travis_id
+  - rsync -arve "ssh -o StrictHostKeyChecking=no -i travis_id" ${TRAVIS_BUILD_DIR}/dist/* ${USER}@${SERVER}:${WWW}

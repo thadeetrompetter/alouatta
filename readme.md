@@ -13,7 +13,7 @@
 - [x] browserify
 - [x] file watchers
 - [x] browser sync
-- [ ] asset processing
+- [x] asset processing
 - [x] linting js
 - [x] linting less/css
 - [ ] karma (unit tests)

@@ -16,7 +16,7 @@
 - [x] asset processing
 - [x] linting js
 - [x] linting less/css
-- [ ] karma (unit tests)
+- [x] karma (unit tests)
 - [ ] deploy with travis
 
 ### front-end

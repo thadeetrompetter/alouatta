@@ -1,17 +1,5 @@
 {
     "esnext": true,
-    "disallowSpacesInNamedFunctionExpression": {
-        "beforeOpeningRoundBrace": false
-    },
-    "disallowSpacesInFunctionExpression": {
-        "beforeOpeningRoundBrace": false
-    },
-    "disallowSpacesInAnonymousFunctionExpression": {
-        "beforeOpeningRoundBrace": false
-    },
-    "disallowSpacesInFunctionDeclaration": {
-        "beforeOpeningRoundBrace": false
-    },
     "disallowEmptyBlocks": true,
     "disallowSpacesInCallExpression": true,
     "disallowSpacesInsideArrayBrackets": true,
@@ -31,7 +19,6 @@
     "disallowKeywordsOnNewLine": ["else"],
     "disallowMultipleLineBreaks": true,
     "disallowMultipleLineStrings": true,
-    "disallowMultipleVarDecl": true,
     "disallowSpaceBeforeComma": true,
     "disallowSpaceBeforeSemicolon": true,
     "requireSpaceBeforeBlockStatements": true,

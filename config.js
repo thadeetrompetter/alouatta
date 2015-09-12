@@ -10,6 +10,7 @@ module.exports = {
     dist: './dist',
     distAssets: './dist/assets',
     paths: {
+        assets: './source/components/*/assets/**/*.*',
         lessFiles: './source/**/*.less',
         jsFiles: './source/**/*.js',
         htmlFiles: [

@@ -1,16 +1,16 @@
 {
     "esnext": true,
     "disallowSpacesInNamedFunctionExpression": {
-        "beforeOpeningRoundBrace": true
+        "beforeOpeningRoundBrace": false
     },
     "disallowSpacesInFunctionExpression": {
-        "beforeOpeningRoundBrace": true
+        "beforeOpeningRoundBrace": false
     },
     "disallowSpacesInAnonymousFunctionExpression": {
-        "beforeOpeningRoundBrace": true
+        "beforeOpeningRoundBrace": false
     },
     "disallowSpacesInFunctionDeclaration": {
-        "beforeOpeningRoundBrace": true
+        "beforeOpeningRoundBrace": false
     },
     "disallowEmptyBlocks": true,
     "disallowSpacesInCallExpression": true,

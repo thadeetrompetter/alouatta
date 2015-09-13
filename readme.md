@@ -17,7 +17,7 @@
 - [x] linting js
 - [x] linting less/css
 - [x] karma (unit tests)
-- [ ] deploy with travis
+- [x] deploy with travis
 
 ### front-end
 - [ ] boilerplate html

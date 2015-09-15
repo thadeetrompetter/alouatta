@@ -20,4 +20,4 @@ before_install:
   -in travis_id.enc -out travis_id -d
 after_success:
   - chmod 400 travis_id
-  - rsync -arve "ssh -o StrictHostKeyChecking=no -i travis_id" ${TRAVIS_BUILD_DIR}/dist/* ${USER}@${SERVER}:${WWW}
+  - rsync -arve "ssh -o StrictHostKeyChecking=no -i travis_id" ${TRAVIS_BUILD_DIR}/dist/* ${USER}@${SERVER}:${WWW} > /dev/null 2>&1

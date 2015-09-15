@@ -9,6 +9,8 @@ env:
 branches:
   only:
     - master
+cache:
+  - npm
 script:
   - npm run test
   - npm run deploy

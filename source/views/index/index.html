@@ -3,7 +3,7 @@
 {% for section in sections %}
 <section class="page-section">
     <a id="{{ section.name }}">{{ section.name }}</a>
-    {{ section.content | raw }}
+    {{ section.content }}
 </section>
 {% endfor %}
 {% endblock %}

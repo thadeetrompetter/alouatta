@@ -1,11 +1,11 @@
 Home
 ===================
 
-Hi and welcome on the website of the Alouatta (eco)hostel! 
+Welcome to the site of (eco)hostel Alouatta! 
 
-Your place to be in San Fransisco the Coyote for a cheap, clean and comfortable stay in a green enviroment near the beautiful and quiet beach of Coyote. 
+Your place to be in San Fransisco the Coyote for a cheap, clean and comfortable stay in a green environment near the beautiful and quiet beach of Coyote. 
 
-Scroll down the rest of the website for an impression of our hostel and the nice activities you can find around this beautiful place.
+Scroll down the rest of the website for an impression of our hostel and the many interesting activities you can find around this beautiful place.
 
 
 

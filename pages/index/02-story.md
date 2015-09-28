@@ -1,7 +1,7 @@
 # Who we are
 We are Yenkim and Misha, a couple from the Netherlands following our dream of running a relaxed and cheap accomodation in an unspoiled and natural part of the world. 
 
-What better place to do this than in Costa Rica?! Home to countless species of animals and plants. A whopping 2% of earth's biodiversity resides here, so it's "the" place to be if you love nature. 
+What better place to do this than in Costa Rica?! Home to countless species of animals and plants. A whopping 2% of earth's biodiversity resides here, so it's _the_ place to be if you love nature. 
 
 #### Our vision
 

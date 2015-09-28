@@ -1,3 +1,10 @@
-# yet another chapter here
+# Activities in Playa Coyote
 
-tell me all about it
+canooing
+turtle protection camp
+horseriding
+Karen morgenson park
+surfing
+butterfly farm
+hiking
+eating out

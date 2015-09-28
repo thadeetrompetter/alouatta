@@ -9,4 +9,7 @@ We want to offer you an ecofriendly, affordable and superchill environment, wher
 
 Close to nature but with all the luxury you need as a backpacker, a place where you feel at ease, can undertake activities with or without us, can feel as free as you want to feel and will be welcomed anytime. 
 
-With both our backgrounds in restauration we are confident in giving you all you need for a good and relaxed stay on your holiday in Costa Rica.
+With both our backgrounds in the hospitality industry we are confident in giving you all you need for a good and relaxed stay on your holiday in Costa Rica.
+
+Next to offering our guests a warm welcome, we also believe we have to give something back to Costa rica, both on local level as well as on a bigger scale. That's why we work closely together with the local projects and activities, helping and supporting them in different ways.
+On a bigger scale, we work together with [buy rainforest]. While keeping our prices as low as possible, we also donate "_50 cents per guest_" to this project. In this way, _you_, as a guest help protecting this beautiful country and providing an excellent example for the rest of the world.

@@ -36,4 +36,9 @@ _Hiking_:
 In the surroundings of the hostel you can make nice hikes, to the beach and further along the coast. Between Playa Coyote and Playa Caletas there lies a Peninsula which you can climb for beautiful views over the beaches.
 See also the [Karen Morgenson Park] (link naar park)
 
+_Bird watching_:
+
+Costa rica is known for it's many birds. Around Playa Coyote (which is at the end of an estuary) there's many different species to find. Seabirds, mangrovebirds and a lot of forestbirds are to be spotted. Also colibries are to find all around you.
+
+
 eating out

@@ -13,6 +13,7 @@ Here there's a beautiful organisation working with volunteers to protect these m
 This all for a small fee of 10 dollars, which will be used for the organisation.
 
 _Horseriding_:
+
 At the "Casa Caletas" hotel you can do horseback tours over the beatiful beach, guided by a local "ranchero"
 
 Karen morgenson park

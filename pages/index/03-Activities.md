@@ -12,6 +12,13 @@ Here there's a beautiful organisation working with volunteers to protect these m
 
 This all for a small fee of 10 dollars, which will be used for the organisation.
 
+_Butterfly farm_:
+
+At 20 minutes driving our friend Mike is running his open air (link naar Mike)[Butterfly farm]. As an avid entomologist living in Costa rica for .. years,  he has a _very_ extensive knowledge about the local environment and it's animals.
+
+He organizes 1,5 hour tours through his open air butterfly farm at 25 dollars a person. We highly recommend doing it, you will see that there's life _everywhere_ around you, well hidden but for everyone to see if you let your eyes be guided by Mike.
+
+
 _Horseriding_:
 
 At the "Casa Caletas" hotel you can do horseback tours over the beatiful beach, guided by a local "ranchero"

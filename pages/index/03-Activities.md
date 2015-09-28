@@ -14,9 +14,9 @@ This all for a small fee of 10 dollars, which will be used for the organisation.
 
 _Butterfly farm_:
 
-At 20 minutes driving our friend Mike is running his open air (link naar Mike)[Butterfly farm]. As an avid entomologist living in Costa rica for .. years,  he has a _very_ extensive knowledge about the local environment and it's animals.
+At 20 minutes driving our friend Mike is running his open air [Butterfly farm](link naar Mike). As an avid entomologist living in Costa rica for .. years,  he has a _very_ extensive knowledge about the local environment and it's animals.
 
-He organizes 1,5 hour tours through his open air butterfly farm at 25 dollars a person. We highly recommend doing it, you will see that there's life _everywhere_ around you, well hidden but for everyone to see if you let your eyes be guided by Mike.
+He organizes 1,5 hour long tours through his open air butterfly farm at 25 dollars a person. We highly recommend doing it, you will see that there's life _everywhere_ around you, well hidden but for everyone to see if you let your eyes be guided by Mike.
 
 
 _Horseriding_:

@@ -9,4 +9,4 @@ Free wifi is ofcourse available and 2 days a week you can enjoy our homemade din
 Also we offer rental bikes (and surfboards). 
 
 For the people without own motorized transport we can arrange daytrips to local sightseeing spots and we have all the information about the local activities and are always happy to help you getting around. 
-Be sure to check out the ['activities'] (to another place) part of the website for info on that.
+Be sure to check out the ['activities'] (link to activities) part of the website for info on that.

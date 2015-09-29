@@ -28,7 +28,7 @@ At the "Casa Caletas" hotel you can do horseback tours crossing the beatiful bea
 
 _Surfing_:
 
-At Playa Coyote there's a nice and gentle wave for the starting surfer. If the swell is strong enough there's a lot of fun for the intermediate surfer and if you're a pro, you can use these chances to go more into sea, where, on the leftside of the beach, there's a reef hidden underwater. At this place and time there are excellent waves there.
+At Playa Coyote there's a nice and gentle wave for the starting surfer. If the swell is strong enough there's a lot of fun for the intermediate surfer and if you're a pro, you can use these swells to go more out into sea, where, to the leftside of the beach, there's a reef hidden underwater. At this place and time there are excellent waves there.
 If available, we rent out surfboards to our guests.
 
 _Hiking_:

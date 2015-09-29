@@ -2,7 +2,7 @@
 
 _Canoeing_:
 
-At a distance of 15 minutes walking you can rent a canoe at 10 dollars per person for a whole day, to go up the eerie mangrove to watch swamp birds or, for a rougher adventure, out to sea. We can instruct you if necessary.
+At a distance of 15 minutes walking you can rent a canoe at 10 dollars per person for a whole day, to go up the mysterious, eerie mangrove to watch swamp birds or, for a rougher adventure, out to sea. We can instruct you if necessary.
 
 _Turtle protection camp_:
 

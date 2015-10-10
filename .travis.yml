@@ -25,3 +25,4 @@ deploy:
   skip_cleanup: true
   region: ${ARTIFACTS_REGION}
   local_dir: ${ARTIFACTS_PATH}
+  detect_encoding: true

@@ -1,0 +1,11 @@
+<nav class="navigation">
+    {% if sections -%}
+        <ol>
+            {%- for section in sections -%}
+                <li>
+                    <a href="#{{ section.name }}">{{ section.name }}</a>
+                </li>
+            {%- endfor -%}
+        </ol>
+    {%- endif %}
+</nav>

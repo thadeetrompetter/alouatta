@@ -1,0 +1,27 @@
+@import (reference) "../core-styles/variables";
+@import (reference) "../core-styles/layout";
+
+.header {
+    position: fixed;
+    background: rgba(255,255,255,.7);
+    border-bottom: 1px solid #CCC;
+    width: 100%;
+    h1 {
+        display: inline-block;
+        margin-top: 0;
+    }
+    .logo {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .title {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .content {
+        margin: 0 auto;
+        @media all and (min-width: 48em){
+            width: 75rem;
+        }
+    }
+}

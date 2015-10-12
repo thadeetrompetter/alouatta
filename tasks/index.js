@@ -1,6 +1,5 @@
 var assign = require('lodash.assign'),
-    gulp = require('gulp'),
-    gutil = require('gulp-util');
+    gulp = require('gulp');
 
 module.exports = function getTasks(tasks) {
     if(!tasks){
@@ -38,8 +37,4 @@ function appendTask(task, groupName) {
         signature = signature.concat([ dependencies ]);
     }
     gulp.task.apply(gulp, signature.concat(task.fn));
-    gutil.log(
-        gutil.colors.yellow('Registered task:'),
-        gutil.colors.green(signature.slice(0,1)[0])
-    );
 }

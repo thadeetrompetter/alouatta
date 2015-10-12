@@ -15,12 +15,18 @@
             {% endblock -%}
             <main>
             {% block content %}{% endblock %}
-            <main>
+            </main>
             {%- block footer %}
 
             {% endblock -%}
             {% block scripts %}
-            <script src="/assets/main.js"></script>
+            <script>
+                if('classList' in document.createElement('div') &&
+                'querySelector' in document &&
+                'localStorage' in window){
+                    document.write('<script src="\/assets\/main.js"><\/script>');
+                }
+            </script>
             {% endblock %}
         {% endblock -%}
     </body>

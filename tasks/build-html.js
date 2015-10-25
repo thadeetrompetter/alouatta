@@ -1,5 +1,6 @@
 var config = require('../config'),
     gulp = require('gulp'),
+    inlineMinify = require('lib/inline-minify'),
     md = require('lib/md'),
     meta = require('lib/meta'),
     pathToDistRoot = require('lib/helpers').pathToDistRoot,
@@ -15,6 +16,7 @@ module.exports = function buildHtml(opts) {
         .pipe(md())
         .pipe(meta())
         .pipe(template())
+        .pipe(inlineMinify())
         .pipe(prettify())
         .pipe(pathToDistRoot())
         .pipe(gulp.dest(config.dist))

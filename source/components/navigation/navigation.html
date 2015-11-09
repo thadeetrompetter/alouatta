@@ -3,7 +3,12 @@
         <ol>
             {%- for section in sections -%}
                 <li>
-                    <a href="#{{ section.name }}">{{ section.name }}</a>
+                    <a href="#{{ section.name }}">
+                        {%- if section.title -%}
+                        {{ section.title | capitalize }}
+                        {%- else %}{{ section.name | capitalize }}
+                        {%- endif -%}
+                    </a>
                 </li>
             {%- endfor -%}
         </ol>

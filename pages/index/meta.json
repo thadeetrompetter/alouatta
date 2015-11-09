@@ -1,4 +1,11 @@
 {
+    "page": {
+        "background-images": {
+            "520":"jungle-s",
+            "960":"jungle-m",
+            "1280":"jungle-l"
+        }
+    },
     "intro": {
         "creation_date":"2015-09-05",
         "background_image":"http://placekitten.com/800/150"

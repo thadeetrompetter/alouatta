@@ -7,11 +7,13 @@
         }
     },
     "intro": {
-        "creation_date":"2015-09-05",
-        "background_image":"http://placekitten.com/800/150"
+        "title":"Home"
     },
     "story": {
-        "creation_date":"2015-09-06",
-        "background_image":"http://stevensegallery.com/800/150"
+        "title":"Who we are"
+    },
+    "contact": {
+        "title":"Reservations"
     }
+
 }

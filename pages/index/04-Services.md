@@ -1,8 +1,8 @@
 # Our services
 
-The first things we offer are a good bed and good, clean facilities. 
+The first things we offer are a comfortable bed and clean facilities. 
 
-We have a fully equipped communal kitchen at your disposal, as well as tidy bathrooms and washing facilities. 
+We have a fully equipped communal kitchen at your disposal, as well as tidy bathrooms. 
 
 Free wifi is ofcourse available and 2 days a week you can enjoy our homemade dinners for a fair price.
 

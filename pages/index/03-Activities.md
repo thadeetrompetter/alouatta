@@ -16,7 +16,7 @@ At 20 minutes driving our friend Mike is running his open air [Butterfly farm](l
 He organizes 1,5 hour long tours through his open air butterfly farm at 25 dollars a person. We highly recommend doing it, you will see that there's life _everywhere_ around you, well hidden but for everyone to see if you let your eyes be guided by Mike.
 
 ## Karen Mogenson Park
-A bit further away, at about 1,5 hours driving, there's a hidden gem. Undiscovered by the masses, the [Karen Mogenson Park] (link naar park) offers beautiful hikes, encountering almost nobody while walking in an overwhelming canopy forest. The trail here leads to a beautiful waterfall and the pools on the way (and on top of the waterfall!!) give excellent chances to take a dip or two. At 1000 colones it's also the cheapest protected park in Costa rica.
+A bit further away, at about 1,5 hours driving, there's a hidden gem. Undiscovered by the masses, the [Karen Mogenson](link naar site) offers beautiful hikes, encountering almost nobody while walking in an overwhelming canopy forest. The trail here leads to a beautiful waterfall and the pools on the way (and on top of the waterfall!!) give excellent chances to take a dip or two. At 1000 colones it's also the cheapest protected park in Costa rica.
 
 ## Horseriding
 At the "Casa Caletas" hotel you can do horseback tours crossing the beatiful beach, guided by a local "ranchero"

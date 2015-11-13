@@ -8,4 +8,4 @@ Free wifi is ofcourse available and 2 days a week you can enjoy our homemade din
 
 For the people without own motorized transport we can arrange daytrips to local sightseeing spots. We have all the information about the local activities and are always happy to help you getting around. 
 
-Be sure to check out the [activities] (link to activities) part of the website for info on that.
+Be sure to check out the [activities](link naar activities) part of the website for info on that.

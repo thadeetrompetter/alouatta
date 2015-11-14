@@ -12,6 +12,12 @@
         </div>
     {% endif %}
     <div class="centered content">
+        {% if loop.first %}
+            {% include "components/logo/logo.html" %}
+        {% endif %}
         {{ section.content }}
+        {% if loop.last %}
+            {% include "components/social/social.html" %}
+        {% endif %}
     </div>
 </section>

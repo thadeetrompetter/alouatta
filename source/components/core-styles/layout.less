@@ -11,41 +11,35 @@ body {
     font-size: 1.5rem;
     line-height: 1.25;
     font-family: Candara, sans-serif;
+    color: @black;
     &:before {
-        content: 'default (mobile)';
+        content: 'small';
         position: absolute;
+        z-index: 999;
         left: 0;
         top: 0;
     }
-    @media all and (min-width: 32.5em){
-        font-size: 1.75em;
+    @media all and (min-width: @breakpoint-small){
         &:before {
-            content: '32em and up';
-            position: absolute;
-            left: 0;
-            top: 0;
+            content: 'medium'
         }
     }
-    @media all and (min-width: 48em){
-        font-size: 2em;
+    @media all and (min-width: @breakpoint-medium){
         &:before {
-            content: '48em and up';
-            position: absolute;
-            left: 0;
-            top: 0;
+            content: 'large'
+        }
+    }
+    @media all and (min-width: @breakpoint-large){
+        &:before {
+            content: 'extra large'
         }
     }
 }
 h1, p {
     margin-bottom: 2rem;
 }
-h1 {
-    text-align: center;
-}
 h2 {
-    font-size: 1.1em;
     margin-bottom: .5rem;
-
 }
 p:last-of-type {
     margin: 0;

@@ -1,28 +1,54 @@
+@import (reference) "../core-styles/variables";
 @import (reference) "../core-styles/mixins/clearfix";
 .navigation {
-    &:extend(.clearfix all);
-    // margin-left: auto;
-    font-size: 1.3rem;
-    color: black;
     display: flex;
     justify-content: center;
 
     ol {
         list-style: none;
     }
-    a {
-        color: black;
+    li {
         display: block;
-        padding: 2rem 1rem;
-        border-bottom: .3rem solid transparent;
+    }
+    a {
+        position: relative;
+        color: @black;
+        display: block;
+        padding: 1rem 2rem;
+        text-align: center;
 
-        &:hover {
-            border-bottom: .3rem solid darken(red, 10%);
-            background-color: rgba(0,0,0,.1);
+
+    }
+    @media all and (min-width: @breakpoint-small){
+        li {
+            display: inline-block;
+        }
+        a {
+            margin: .5rem 1rem;
+            padding: 0;
+
+            &:after {
+                content: '';
+                display: block;
+                position: absolute;
+                height: .3rem;
+                width: 100%;
+                background: @yellow;
+                margin-top: .25rem;
+                display: none;
+            }
+            &:hover {
+                &:after {
+                    display: block;
+                }
+            }
         }
     }
-    li {
-        display: inline-block;
-        margin-left: .5rem;
+    @media all and (min-width: @breakpoint-medium){
+        justify-content: flex-end;
+        margin-right: 2em;
+         a {
+             font-size: 1.1em;
+         }
     }
 }

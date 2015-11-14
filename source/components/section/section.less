@@ -1,12 +1,27 @@
+@import (reference) "../core-styles/variables";
 .section {
     padding: 14rem 0;
     min-height: 77rem;
+
     .content {
-        @media all and (min-width: 32.5em){
-            width: 48rem;
-        }
-        @media all and (min-width: 48em){
-            width: 60rem;
+        padding: 0 1rem;
+    }
+
+    @media all and (min-width: @breakpoint-small){
+        .content {
+            font-size: 1.1em;
+            width: @breakpoint-small-content-width;
         }
     }
+    @media all and (min-width: @breakpoint-medium){
+        .content {
+            font-size: 1.25em;
+        }
+    }
+    @media all and (min-width: @breakpoint-max-content-width){
+        .content {
+            width: @max-content-width;
+        }
+    }
+
 }

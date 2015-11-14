@@ -12,28 +12,6 @@ body {
     line-height: 1.25;
     font-family: Candara, sans-serif;
     color: @black;
-    &:before {
-        content: 'small';
-        position: absolute;
-        z-index: 999;
-        left: 0;
-        top: 0;
-    }
-    @media all and (min-width: @breakpoint-small){
-        &:before {
-            content: 'medium'
-        }
-    }
-    @media all and (min-width: @breakpoint-medium){
-        &:before {
-            content: 'large'
-        }
-    }
-    @media all and (min-width: @breakpoint-large){
-        &:before {
-            content: 'extra large'
-        }
-    }
 }
 h1, p {
     margin-bottom: 2rem;

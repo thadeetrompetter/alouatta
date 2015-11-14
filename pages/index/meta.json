@@ -1,13 +1,15 @@
 {
     "page": {
-        "background-images": {
-            "520":"jungle-s",
-            "960":"jungle-m",
-            "1280":"jungle-l"
-        }
+
     },
     "intro": {
-        "title":"Home"
+        "title":"Home",
+        "backgrounds": {
+            "s":"home-s.jpg",
+            "m":"home-m.jpg",
+            "l":"home-l.jpg",
+            "xl":"home-xl.jpg"
+        }
     },
     "story": {
         "title":"Who we are"

@@ -30,6 +30,6 @@ In the surroundings of the hostel you can make nice hikes, to the beach and furt
 See also the [Karen Morgenson Park](http://www.tripadvisor.com/Attraction_Review-g7684098-d8504916-Reviews-Karen_Mogensen_Nature_Reserve-Jicaral_Province_of_Puntarenas.html)
 
 ## Bird watching
-Costa rica is known for it's many birds. Around Playa Coyote (which is at the end of an estuary) there's many different species to find. Seabirds, mangrovebirds and a lot of forestbirds are to be spotted. Also colibries are to find all around you.
+Costa rica is known for it's many birds. Around Playa Coyote (which is at the end of an estuary) there's many different species to find. Seabirds, mangrovebirds and a lot of forestbirds are to be spotted. Colibries are everywhere around you.
 
 

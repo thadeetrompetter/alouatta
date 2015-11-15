@@ -12,7 +12,29 @@
         }
     },
     "story": {
-        "title":"Who we are"
+        "title":"Who we are",
+        "backgrounds": {
+            "s":"story-s.jpg",
+            "m":"story-m.jpg",
+            "l":"story-l.jpg",
+            "xl":"story-xl.jpg"
+        }
+    },
+    "activities":{
+        "backgrounds": {
+            "s":"activities-s.jpg",
+            "m":"activities-m.jpg",
+            "l":"activities-l.jpg",
+            "xl":"activities-xl.jpg"
+        }
+    },
+    "services":{
+        "backgrounds": {
+            "s":"services-s.jpg",
+            "m":"services-m.jpg",
+            "l":"services-l.jpg",
+            "xl":"services-xl.jpg"
+        }
     },
     "contact": {
         "title":"Reservations",
@@ -25,6 +47,12 @@
                 "url": "http://www.instagram.com/hostel.alouatta",
                 "title":"Alouatta hostel on instagram"
             }
+        },
+        "backgrounds": {
+            "s":"contact-s.jpg",
+            "m":"contact-m.jpg",
+            "l":"contact-l.jpg",
+            "xl":"contact-xl.jpg"
         }
     }
 

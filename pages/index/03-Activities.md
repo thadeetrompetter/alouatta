@@ -26,8 +26,8 @@ At Playa Coyote there's a nice and gentle wave for the starting surfer. If the s
 If available, we rent out surfboards to our guests.
 
 ## Hiking
-In the surroundings of the hostel you can make nice hikes, to the beach and further along the coast. Between Playa Coyote and Playa Caletas there lies a Peninsula which you can climb for beautiful views over the beaches.
-See also the [Karen Morgenson Park] (link naar park)
+In the surroundings of the hostel you can make nice hikes, to the beach and further along the coast. Between Playa Coyote and Playa Caletas lies a Peninsula which you can climb for beautiful views over the beaches.
+See also the [Karen Morgenson Park](http://www.tripadvisor.com/Attraction_Review-g7684098-d8504916-Reviews-Karen_Mogensen_Nature_Reserve-Jicaral_Province_of_Puntarenas.html)
 
 ## Bird watching
 Costa rica is known for it's many birds. Around Playa Coyote (which is at the end of an estuary) there's many different species to find. Seabirds, mangrovebirds and a lot of forestbirds are to be spotted. Also colibries are to find all around you.

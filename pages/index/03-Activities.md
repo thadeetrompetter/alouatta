@@ -32,6 +32,4 @@ See also the [Karen Morgenson Park] (link naar park)
 ## Bird watching
 Costa rica is known for it's many birds. Around Playa Coyote (which is at the end of an estuary) there's many different species to find. Seabirds, mangrovebirds and a lot of forestbirds are to be spotted. Also colibries are to find all around you.
 
-## eating out
 
-NO!

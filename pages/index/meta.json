@@ -15,7 +15,17 @@
         "title":"Who we are"
     },
     "contact": {
-        "title":"Reservations"
+        "title":"Reservations",
+        "social":{
+            "facebook":{
+                "url":"http://www.facebook.com/hostelalouatta",
+                "title":"Alouatta hostel on facebook"
+            },
+            "instagram":{
+                "url": "http://www.instagram.com/hostel.alouatta",
+                "title":"Alouatta hostel on instagram"
+            }
+        }
     }
 
 }

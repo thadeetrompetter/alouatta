@@ -4,7 +4,7 @@
 At a distance of 15 minutes walking you can rent a canoe at 10 dollars per person for a whole day, to go up the mysterious, eerie mangrove to watch swamp birds or, for a rougher adventure, out to sea. We can instruct you if necessary.
 
 ## Turtle protection camp
-The beach next to Playa Coyote is called "Playa Caletas" and is a protected nesting site for the [Olive ridley turtle] (to some place) and the (more endangered and seldomly seen) [Green leatherback turtle] (to funky place).
+The beach next to Playa Coyote is called "Playa Caletas" and is a protected nesting site for the Olive ridley turtle and the (more endangered and seldomly seen) Green leatherback turtle.
 
 A this beach there's a beautiful organisation working with volunteers to protect these magnificent animals. They will be happy to give you a night tour on the beach, seeing the turtles lay their eggs and, if you are lucky, you can even help young hatchlings with their first swim into the great Pacific ocean.
 

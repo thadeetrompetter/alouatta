@@ -1,36 +1,17 @@
-@import (reference) "variables";
+@import (reference) 'variables';
+@import (reference) 'typography';
+
 *, *:before, *:after {
     box-sizing: border-box;
 }
 html {
-    font-size: 62.5%;
+    &:extend(.base-font-size);
 }
 body {
     margin: 0;
     padding: 0;
-    font-size: 1.5rem;
-    line-height: 1.25;
-    font-family: Candara, sans-serif;
-    color: @black;
-}
-h1, p {
-    margin-bottom: 2rem;
-}
-h2 {
-    font-size: 1.1em;
-    margin-bottom: .5rem;
-}
-p:last-of-type {
-    margin: 0;
-}
-a:link, a:visited {
-    color: @red;
-    &:hover {
-        text-decoration: underline;
-    }
+    &:extend(.base-typo);
 }
 .centered {
-    text-align: left;
-    font-size: .9em;
     margin: 0 auto;
 }

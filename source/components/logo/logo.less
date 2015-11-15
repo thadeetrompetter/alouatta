@@ -1,8 +1,25 @@
+@import (reference) '../core-styles/variables';
+
 .logo {
     position: absolute;
     bottom: 100%;
     right: 3rem;
     img {
-        width: 150px;
+        width: 100px;
+    }
+    @media all and (min-width: @breakpoint-small){
+        img {
+            width: 110px;
+        }
+    }
+    @media all and (min-width: @breakpoint-medium){
+        img {
+            width: 130px;
+        }
+    }
+    @media all and (min-width: @breakpoint-large){
+        img {
+            width: 150px;
+        }
     }
 }

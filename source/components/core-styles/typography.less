@@ -1,7 +1,33 @@
+@import (reference) 'variables';
 @font-face {
 	font-family: 'Candara';
 	src: local('Candara');
 	src: url('/assets/core-styles/font/Candara.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
+}
+h1, p {
+    margin-bottom: 2rem;
+}
+h2 {
+    font-size: 1.1em;
+    margin-bottom: .5rem;
+}
+p:last-of-type {
+    margin: 0;
+}
+a:link, a:visited {
+    color: @red;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+.base-font-size {
+	font-size: 62.5%;
+}
+.base-typo {
+	font-size: 1.5em;
+	line-height: 1.25;
+	font-family: Candara, sans-serif;
+	color: @black;
 }

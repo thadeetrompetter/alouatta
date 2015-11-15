@@ -10,6 +10,6 @@ Close to nature but with all the small luxuries you need as a backpacker. A plac
 
 With both our backgrounds in the hospitality industry we are confident in giving you all you need for a good and relaxed stay on your holiday in Costa Rica.
 
-Next to offering our guests a warm welcome, we also believe we have to give something back to Costa rica, both on a local level as well as on a bigger scale. That's why we work closely together with the local projects and activities, helping and supporting eachother in different ways.
+Next to offering our guests a warm welcome, we also believe we have to give something back to Costa Rica, both on a local level as well as on a bigger scale. That's why we work closely together with the local projects and activities, helping and supporting each other in different ways.
 
 On a bigger scale, we work together with [buy rainforest](http://www.adopteerregenwoud.nl/adopteerregenwoud.nl/en/). While keeping our prices as low as possible, we donate **_50 dollarcents per guest_** to this project. In this way, _you_, as one of our guests, help protecting this beautiful country.

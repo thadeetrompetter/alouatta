@@ -13,7 +13,7 @@ This all for a small fee of 10 dollars, which will be used for the good of the o
 ## Butterfly farm
 At 20 minutes driving our friend Mike is running his open air [Butterfly farm](https://www.facebook.com/junglebutterflyfarm). As an avid entomologist living in Costa Rica for many years,  he has a _very_ extensive knowledge about the local environment and it's animals.
 
-He organizes 1,5 hour long tours through his open air butterfly farm at 25 dollars a person. We highly recommend doing it, you will see that there's life _everywhere_ around you, well hidden but for everyone to see if you let your eyes be guided by Mike.
+He organises 1,5 hour long tours through his open air butterfly farm at 25 dollars a person. We highly recommend doing it, you will see that there's life _everywhere_ around you, well hidden but for everyone to see if you let your eyes be guided by Mike.
 
 ## Karen Mogenson Park
 A bit further away, at about 1,5 hours driving, there's a hidden gem. Undiscovered by the masses, the [Karen Mogenson Park](http://www.tripadvisor.com/Attraction_Review-g7684098-d8504916-Reviews-Karen_Mogensen_Nature_Reserve-Jicaral_Province_of_Puntarenas.html) offers beautiful hikes, encountering almost nobody while walking in an overwhelming canopy forest. The trail here leads to a beautiful waterfall and the pools on the way (and on top of the waterfall!!) give excellent chances to take a dip or two. For 1000 colones (CRC 1000) it's also the cheapest protected park in Costa rica.

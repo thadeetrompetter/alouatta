@@ -1,15 +1,7 @@
 {% set imageDir = "/assets/section/images/" %}
 <section class="section{% if section.backgrounds %} has-hero{% endif %}" id="{{ section.name }}">
     {% if section.backgrounds %}
-        <div class="hero" data-hero>
-            <script type="application/json" data-image-formats>
-                {
-                    {%- for size, image in section.backgrounds -%}
-                        "{{ size }}":"{{ imageDir }}{{ image }}"{% if not loop.last %},{% endif %}
-                    {%- endfor -%}
-                }
-            </script>
-        </div>
+        {% include "components/hero/hero.html" %}
     {% endif %}
     <div class="centered content">
         {% if loop.first %}

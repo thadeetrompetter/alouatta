@@ -9,6 +9,7 @@
         {% endif %}
         {{ section.content }}
         {% if loop.last %}
+            {% include "components/map/map.html" %}
             {% include "components/social/social.html" %}
         {% endif %}
     </div>

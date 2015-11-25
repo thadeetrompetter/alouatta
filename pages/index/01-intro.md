@@ -12,7 +12,7 @@ it's off the beaten track, undiscovered and quiet; If you hike
 around here, you truly see wild animals - not animals living in a 
 small protected area which are used to people - but shy, alert and 
 curious animals. 
-The beach is extremely big, especially with low tide, and you can 
+The beach is extremely big, especially during low tide, and you can 
 have it all for yourself (and some wild horses roaming around). 
 The nights are still truly dark, with stars scattered bright above you. 
 Paradise, right here on earth.

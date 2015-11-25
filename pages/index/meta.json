@@ -22,10 +22,10 @@
     },
     "activities":{
         "backgrounds": {
-            "s":"activities-s.jpg",
-            "m":"activities-m.jpg",
-            "l":"activities-l.jpg",
-            "xl":"activities-xl.jpg"
+            "s":"activities2-s.jpg",
+            "m":"activities2-m.jpg",
+            "l":"activities2-l.jpg",
+            "xl":"activities2-xl.jpg"
         }
     },
     "services":{

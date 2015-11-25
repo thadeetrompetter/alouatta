@@ -19,7 +19,7 @@ He organises 1,5 hour long tours through his open air butterfly farm at 25 dolla
 A bit further away, at about 1,5 hours driving, there's a hidden gem. Undiscovered by the masses, the [Karen Mogenson Park](http://www.tripadvisor.com/Attraction_Review-g7684098-d8504916-Reviews-Karen_Mogensen_Nature_Reserve-Jicaral_Province_of_Puntarenas.html) offers beautiful hikes, encountering almost nobody while walking in an overwhelming canopy forest. The trail here leads to a beautiful waterfall and the pools on the way (and on top of the waterfall!!) give excellent chances to take a dip or two. For 1000 colones (CRC 1000) it's also the cheapest protected park in Costa rica.
 
 ## Horseriding
-At the "Casa Caletas" hotel you can do horseback tours crossing the beatiful beach, guided by a local "ranchero"
+At the "Casa Caletas" hotel you can do horseback tours crossing the beautiful beach, guided by a local "ranchero"
 
 ## Surfing
 At Playa Coyote there's a nice and gentle wave for the starting surfer. If the swell is strong enough there's a lot of fun for the intermediate surfer and if you're a pro, you can use these swells to go more out into sea, where, to the leftside of the beach, there's a reef hidden underwater. At this place and time there are excellent waves there.

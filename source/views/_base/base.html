@@ -20,6 +20,12 @@
 
             {% endblock -%}
             {% block scripts %}
+                <script async src="https://maps.googleapis.com/maps/api/js?callback=initMap"></script>
+                <script>
+                    window.initMap = function () {
+                        window.googleMapsApiLoaded = true;
+                    }
+                </script>
                 <script id="main-js"></script>
                 {% include "components/initial-js/initial-js.html" %}
             {% endblock %}

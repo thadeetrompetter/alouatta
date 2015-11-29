@@ -1,6 +1,6 @@
 {
     "page": {
-
+        "googleApiKey":"AIzaSyAGUOUtkIN-SYs5OYiQqN5YXplutQpt5GI"
     },
     "intro": {
         "title":"Home",
@@ -53,6 +53,11 @@
             "m":"contact-m.jpg",
             "l":"contact-l.jpg",
             "xl":"contact-xl.jpg"
+        },
+        "map":{
+            "latitude": 9.7792351,
+            "longitude": -85.2607119,
+            "zoom": 15
         }
     }
 

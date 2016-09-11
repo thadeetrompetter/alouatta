@@ -2,7 +2,7 @@
 
 Costa Rica is home to countless species of animals and plants. A Whopping 2% of earth's biodiversity resides here, so it's _the_ place to be if you love nature. Also people who look for some physical activity can go all out in Playa Coyote.
 
-##Nature
+## Nature
 
 ### Turtle protection camp
 The beach next to Playa Coyote is called "Playa Caletas" and is a protected nesting site for the _Olive ridley turtle_ and the (more endangered and seldomly seen) _Green leatherback turtle_.
@@ -20,7 +20,7 @@ A bit further away, at about 1,5 hours driving, there's a hidden gem. Undiscover
 ### Bird watching
 Costa Rica is known for it's many and colourful birds. Around Playa Coyote (which is at the end of an estuary) there's many different species to be found. You can spot seabirds, mangrovebirds and a lot of forestbirds. And you will hear the soothing sound of hummingbirds, because they're all around.
 
-##Sports 
+## Sports 
 
 ### Surfing
 At Playa Coyote there's a nice and gentle wave for the starting surfer. If the swell is strong enough there's a lot of fun for the intermediate surfer and if you're a pro, you can use these swells to go more out into sea. Here is a well known surfer's secret called Punta Coyote. An underwater reef gives an excellent left break here.

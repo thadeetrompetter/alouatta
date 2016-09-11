@@ -1,4 +1,4 @@
-##Contact & reservations
+## Contact & reservations
 
 
 For reservations or questions please contact us:
@@ -13,18 +13,18 @@ Hostel Alouatta
 Tel. +506 8347 4479
 
 
-*Check-in time* is between 12am and 22pm.
+**Check-in time** is between 12am and 22pm.
 
-*Check-out time* is 10am.
+**Check-out time** is 10am.
 
 
 Nevertheless, we are always at the premises. If you have other wishes, don't hesitate to contact us.
 
 
-##Directions
+## Directions
 
 
-###By car
+### By car
 We are situated along the road between Sámara and Santa Teresa, exactly between 
 the village San Francisco de Coyote and Playa Coyote. With Google Maps, search for 'Hostel Alouatta, Costa Rica' and you will find us. 
 

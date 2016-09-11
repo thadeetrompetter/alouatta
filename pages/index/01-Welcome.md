@@ -4,7 +4,6 @@ Alouatta
 Welcome to the site of Hostel Alouatta!
 
 ## A paradise in Costa Rica
-
 Imagine a tipi-like tent in a garden full of fruit trees. Surrounded by birds, iguanas and _alouatta's_ (howler monkeys). 
 A walk down the road brings you to a beautiful, quiet beach.
 

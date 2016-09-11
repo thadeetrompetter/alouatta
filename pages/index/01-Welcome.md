@@ -26,7 +26,7 @@ We have all the information about the local activities and are always happy to h
 Scroll down the rest of the website for an impression of our hostel and 
 the many interesting activities you can find around this beautiful place. 
 
-If you would like to make reservations or have any question, please feel free to [contact us](mailto:info@alouatta.org)
+If you would like to make reservations or have any questions, please feel free to [contact us](mailto:info@alouatta.org)
 
 
 

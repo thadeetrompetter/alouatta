@@ -2,8 +2,8 @@
     "page": {
         "googleApiKey":"AIzaSyAGUOUtkIN-SYs5OYiQqN5YXplutQpt5GI"
     },
-    "intro": {
-        "title":"Home",
+    "welcome": {
+        "title":"Welcome",
         "backgrounds": {
             "s":"home-s.jpg",
             "m":"home-m.jpg",

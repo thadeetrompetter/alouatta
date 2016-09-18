@@ -11,8 +11,8 @@
             "xl":"home-xl.jpg"
         }
     },
-    "story": {
-        "title":"Who we are",
+    "impression": {
+        "title":"Impression",
         "backgrounds": {
             "s":"story-s.jpg",
             "m":"story-m.jpg",
@@ -28,7 +28,8 @@
             "xl":"activities2-xl.jpg"
         }
     },
-    "services":{
+    "our-story":{
+      "title":"Our story",
         "backgrounds": {
             "s":"services-s.jpg",
             "m":"services-m.jpg",

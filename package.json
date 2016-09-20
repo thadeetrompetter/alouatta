@@ -1,12 +1,12 @@
 {
   "name": "alouatta",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "alouatta.org website",
   "main": "index.js",
   "scripts": {
     "test": "karma start && gulp test-lint",
     "deploy": "gulp deploy",
-    "develop":"gulp watch"
+    "develop": "gulp watch"
   },
   "repository": {
     "type": "git",

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "karma start && gulp test-lint",
-    "deploy": "gulp deploy"
+    "deploy": "gulp deploy",
+    "develop":"gulp watch"
   },
   "repository": {
     "type": "git",

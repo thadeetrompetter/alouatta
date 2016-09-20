@@ -26,3 +26,19 @@ The shared tent has a diameter of 5 meters and contains 4 beds. The 2 private te
 |---|---|---|---|---|---|
 |Shared tent (1-4 persons)   |$17.50   |$35.00   |$52.50   |   $70.00|   |
 |Private tent (1-3 persons)   |$48.00   | $48.00  | | | $58.00  |
+
+|   |   |Shared tent (1-4 persons)   |Private tent (1-3 persons)   |
+|---|---|---|---|
+| 1  |   | $17.50  |$48.00   |
+| 2  |   |  $35.00 |  $48.00 |
+| 3  |   |$52.50   |   |
+| 4  |   | $70.00  |   |
+| With child  |   |   |$58.00   |
+
+|   |   |Shared tent (1-4 persons)|Private tent (1-3 persons)|
+|---|---|---|---|
+|1|   |$17.50|$48.00|
+|2|   |$35.00|$48.00|
+|3|   |$52.50|   |
+|4|   |$70.00|   |
+|With child|   |   |$58.00|

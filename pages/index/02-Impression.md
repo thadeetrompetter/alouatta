@@ -18,7 +18,8 @@ The shared tent has a diameter of 5 meters and contains 4 beds. The 2 private te
 
 
 
-### Price per person per night  
+### Price per person per night
+
 
 
 |   |   |  1 |  2 |3   | 4  |With child   |

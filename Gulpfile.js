@@ -3,6 +3,7 @@
 var browserSync = require('browser-sync').create('aloutta'),
     config = require('./config'),
     buildJs = require('./tasks/build-js'),
+    runSequence = require('run-sequence'),
     // gulp tasks and live in the ./tasks directory and are loaded by passing an
     // array of objects with a name and optional array of dependencies.
     gulp = require(config.taskDir)([
@@ -67,6 +68,10 @@ var browserSync = require('browser-sync').create('aloutta'),
             ]
         },{
             name:'assets'
+        },{
+            name:'revision-create',
+        },{
+            name:'revision-rename'
         }
     ]);
     // ./node_modules/lib is symlinked to ./lib, so you can avoid using long
@@ -91,7 +96,14 @@ gulp.task('deploy:create', [
     'build-js:production',
     'assets'
 ]);
-gulp.task('deploy', ['deploy:create']);
+gulp.task('deploy', function (cb) {
+    runSequence(
+        'deploy:create',
+        'revision-create',
+        'revision-rename',
+        cb
+    );
+});
 gulp.task('test-lint', [
     'test-js:hint'
 ]);

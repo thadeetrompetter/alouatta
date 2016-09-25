@@ -99,8 +99,8 @@ gulp.task('deploy:create', [
 gulp.task('deploy', function (cb) {
     runSequence(
         'deploy:create',
-        // 'revision-create',
-        // 'revision-rename',
+        'revision-create',
+        'revision-rename',
         cb
     );
 });

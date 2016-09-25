@@ -5,7 +5,10 @@ var config = require('../config'),
 
 module.exports = function () {
     var manifest = gulp.src(config.dist + '/rev-manifest.json');
-    return gulp.src([ config.dist + '/*.html' ])
+    return gulp.src([
+        config.dist + '/*.html',
+        config.dist + '/**/*.css'
+    ])
         .pipe(replace({manifest: manifest}))
         .pipe(gulp.dest(config.dist));
 };

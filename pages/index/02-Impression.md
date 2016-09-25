@@ -12,11 +12,8 @@ From our gate, walk 15 minutes to the west and you will see the beach, walk 20 m
 
 The sleeping quarters are fully furnished tipi-like tents overlooking the garden, with two of them having oceanview.
 
-We have 1 tent with 4 single beds and 2 separate tents with double beds available.
-
-The shared tent has a diameter of 5 meters and contains 4 beds. The 2 private tents have a diameter of 4 meters and are equipped with double beds, suited for couples. These tents can, if needed, be booked with an extra bed for a child up to 12 years. All the tents are for non-smokers and are equipped with powersockets, lights and ventilator. Bedsheets and towels are provided, all tents are cleaned daily. 
-
-
+We have 3 tents available, 2 private ones and 1 shared.  
+The shared tent contains 4 beds. The 2 private tents are equipped with double beds, suited for couples. If needed, these tents can be booked with an extra bed for a child up to 12 years. All the tents are for non-smokers and are equipped with powersockets, lights and ventilator. Bedsheets and towels are provided, all tents are cleaned daily. 
 
 ### Price per person per night  
 

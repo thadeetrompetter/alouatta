@@ -8,10 +8,10 @@ Hostel Alouatta
 [info@alouatta.org](mailto:info@alouatta.org)  
 Tel. +506 8347 4479
 
-**Check-in time** is between 12am and 22pm.  
+**Check-in time** is between 12pm and 10pm.  
 **Check-out time** is 10am.
 
-Nevertheless, we are always at the premises. If you have other wishes, don't
+Nevertheless, we are always at the premises. If you have any other wishes, don't
 hesitate to [contact us](mailto:info@alouatta.org).
 
 ## Directions

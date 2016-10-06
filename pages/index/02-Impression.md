@@ -10,10 +10,10 @@ From our gate, walk 15 minutes to the west and you will see the beach, walk 20 m
 
 ## Sleeping
 
-The sleeping quarters are fully furnished tipi-like tents overlooking the garden, with two of them having oceanview.
+The sleeping quarters are fully furnished safari tents overlooking the garden, with two of them having oceanview.
 
 We have 3 tents available, 2 private ones and 1 shared.  
-The shared tent contains 4 beds. The 2 private tents are equipped with double beds, suited for couples. If needed, these tents can be booked with an extra bed for a child up to 12 years. All the tents are for non-smokers and are equipped with powersockets, lights and ventilator. Bedsheets and towels are provided, all tents are cleaned daily. 
+The shared tent has 4 beds. The 2 private tents are equipped with double beds, suited for couples. If needed, these tents can be booked with an extra bed for a child up to 12 years. All the tents are for non-smokers and are equipped with electricity, light and ventilator. Bedsheets and towels are provided, all tents are cleaned daily. 
 
 ### Price per person per night  
 

@@ -13,6 +13,7 @@
         color: @red;
     }
     .content {
+        position: relative;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -30,11 +31,18 @@
         }
     }
     .menu-handle {
+        cursor: pointer;
+        display: inline-block;
         border: 0;
+        padding: 0;
         background-color: transparent;
         position: absolute;
         right: 0;
-        top: 25px;
+        top: 11px;
+        width: 30px;
+        height: 22px;
+        background-image: url(header/images/hamburger.svg);
+        background-repeat: repeat-y;
         @media all and (min-width: @breakpoint-hamburguesa){
             display: none;
         }

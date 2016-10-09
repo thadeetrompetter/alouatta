@@ -8,6 +8,9 @@
             {% include "components/logo/logo.html" %}
         {% endif %}
         {{ section.content }}
+        {% if section.gallery %}
+            {% include "components/gallery/gallery.html" %}
+        {% endif %}
         {% if loop.last %}
             {% include "components/social/social.html" %}
             {% include "components/map/map.html" %}

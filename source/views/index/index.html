@@ -1,6 +1,8 @@
 {% extends "views/_base/base.html" %}
 {% block content %}
     {% for section in sections %}
+      {% if not section.disabled %}
         {% include "components/section/section.html" %}
+      {% endif %}
     {% endfor %}
 {% endblock %}

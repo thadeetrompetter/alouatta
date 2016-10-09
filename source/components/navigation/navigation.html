@@ -2,14 +2,16 @@
     {% if sections -%}
         <ol>
             {%- for section in sections -%}
-                <li>
-                    <a href="#{{ section.name }}">
-                        {%- if section.title -%}
-                        {{ section.title | lower }}
-                        {%- else %}{{ section.name | lower }}
-                        {%- endif -%}
-                    </a>
-                </li>
+                {% if not section.disabled %}
+                    <li>
+                        <a href="#{{ section.name }}">
+                            {%- if section.title -%}
+                            {{ section.title | lower }}
+                            {%- else %}{{ section.name | lower }}
+                            {%- endif -%}
+                        </a>
+                    </li>
+                {% endif %}
             {%- endfor -%}
         </ol>
     {%- endif %}

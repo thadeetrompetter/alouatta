@@ -12,6 +12,7 @@
         }
     },
     "accomodation": {
+        "disabled":true,
         "title":"Accomodation"
     },
     "impression": {
@@ -32,6 +33,7 @@
         }
     },
     "gallery": {
+        "disabled":true,
         "title":"Gallery"
     },
     "our-story":{

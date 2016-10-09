@@ -20,20 +20,12 @@
     position: fixed;
     z-index: 999;
 
-    @media all and (min-width: @breakpoint-small) {
-        .site-title {
-            text-align: center;
-        }
-    }
-    @media all and (min-width: @breakpoint-medium) {
-
+    @media all and (min-width: @breakpoint-hamburguesa) {
         padding: 2rem;
-
         .content {
             flex-direction: row;
             align-items: center;
             justify-content: space-between;
-            width: @breakpoint-medium - 8rem;
             margin:0 auto;
         }
     }
@@ -43,7 +35,7 @@
         position: absolute;
         right: 0;
         top: 25px;
-        @media all and (min-width: @breakpoint-small){
+        @media all and (min-width: @breakpoint-hamburguesa){
             display: none;
         }
     }

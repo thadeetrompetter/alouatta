@@ -1,13 +1,13 @@
 {
   "name": "alouatta",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "description": "alouatta.org website",
   "main": "index.js",
   "scripts": {
     "test": "karma start && gulp test-lint",
     "deploy": "gulp deploy",
     "develop": "gulp watch",
-    "gulp":"gulp"
+    "gulp": "gulp"
   },
   "repository": {
     "type": "git",

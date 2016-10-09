@@ -11,6 +11,9 @@
             "xl":"home-xl.jpg"
         }
     },
+    "accomodation": {
+        "title":"Accomodation"
+    },
     "impression": {
         "title":"Impression",
         "backgrounds": {
@@ -27,6 +30,9 @@
             "l":"activities2-l.jpg",
             "xl":"activities2-xl.jpg"
         }
+    },
+    "gallery": {
+        "title":"Gallery"
     },
     "our-story":{
       "title":"Our story",

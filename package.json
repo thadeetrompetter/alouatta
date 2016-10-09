@@ -6,7 +6,8 @@
   "scripts": {
     "test": "karma start && gulp test-lint",
     "deploy": "gulp deploy",
-    "develop": "gulp watch"
+    "develop": "gulp watch",
+    "gulp":"gulp"
   },
   "repository": {
     "type": "git",

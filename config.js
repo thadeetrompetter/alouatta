@@ -9,8 +9,10 @@ module.exports = {
     script: './source/main.js',
     dist: './dist',
     distAssets: './dist/assets',
+    tmp: './tmp',
     paths: {
         assets: './source/components/*/assets/**/*.*',
+        processedImages: './tmp/**/*.*',
         lessFiles: './source/**/*.less',
         jsFiles: [
             './source/**/*.js',

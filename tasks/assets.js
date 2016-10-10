@@ -31,7 +31,10 @@ var image = getPipe('images', imagemin),
     script = getPipe('script', uglify);
 
 module.exports = function () {
-    return gulp.src(paths.assets)
+    return gulp.src([
+        paths.assets,
+        './tmp/*/assets/**/*.*'
+    ])
         .pipe(setDestination())
         .pipe(image())
         .pipe(script())

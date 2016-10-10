@@ -72,6 +72,8 @@ var browserSync = require('browser-sync').create('aloutta'),
             name:'revision-create',
         },{
             name:'revision-rename'
+        },{
+            name:'responsive-images'
         }
     ]);
     // ./node_modules/lib is symlinked to ./lib, so you can avoid using long
@@ -90,12 +92,16 @@ gulp.task('serve', ['default'], function (done) {
         server:config.dist
     }, done);
 });
-gulp.task('deploy:create', [
-    'build-html',
-    'build-css:production',
-    'build-js:production',
-    'assets'
-]);
+gulp.task('deploy:create', function (cb) {
+    runSequence([
+        'build-html',
+        'build-css:production',
+        'build-js:production',
+    ],
+    'responsive-images',
+    'assets',
+    cb);
+});
 gulp.task('deploy', function (cb) {
     runSequence(
         'deploy:create',

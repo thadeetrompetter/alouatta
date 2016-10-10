@@ -4,46 +4,26 @@
     },
     "welcome": {
         "title":"Welcome",
-        "backgrounds": {
-            "s":"home-s.jpg",
-            "m":"home-m.jpg",
-            "l":"home-l.jpg",
-            "xl":"home-xl.jpg"
-        }
+        "background": "section-tent"
     },
     "accomodation": {
-        "disabled":true,
+        "background":"section-garden",
         "title":"Accomodation"
     },
     "impression": {
         "title":"Impression",
-        "backgrounds": {
-            "s":"story-s.jpg",
-            "m":"story-m.jpg",
-            "l":"story-l.jpg",
-            "xl":"story-xl.jpg"
-        }
+        "background": "section-story"
     },
     "activities":{
-        "backgrounds": {
-            "s":"activities2-s.jpg",
-            "m":"activities2-m.jpg",
-            "l":"activities2-l.jpg",
-            "xl":"activities2-xl.jpg"
-        }
+        "background": "section-activities2"
     },
     "gallery": {
-        "disabled":true,
+        "background":"section-welcome",
         "title":"Gallery"
     },
     "our-story":{
       "title":"Our story",
-        "backgrounds": {
-            "s":"services-s.jpg",
-            "m":"services-m.jpg",
-            "l":"services-l.jpg",
-            "xl":"services-xl.jpg"
-        }
+        "background": "section-services"
     },
     "contact": {
         "title":"Contact",
@@ -57,12 +37,7 @@
                 "title":"Alouatta hostel on instagram"
             }
         },
-        "backgrounds": {
-            "s":"contact-s.jpg",
-            "m":"contact-m.jpg",
-            "l":"contact-l.jpg",
-            "xl":"contact-xl.jpg"
-        },
+        "background": "section-sunrise",
         "map":{
             "latitude": 9.784543,
             "longitude": -85.254843,

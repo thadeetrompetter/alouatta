@@ -1,8 +1,8 @@
 <div class="hero" data-hero>
     <script type="application/json" data-image-formats>
         {
-            {%- for size, image in section.backgrounds -%}
-                "{{ size }}":"{{ imageDir }}{{ image }}"{% if not loop.last %},{% endif %}
+            {%- for size in ['s','m','l','xl'] -%}
+                "{{ size }}":"{{ imageDir }}{{ section.background }}-{{ size }}.jpg"{% if not loop.last %},{% endif %}
             {%- endfor -%}
         }
     </script>

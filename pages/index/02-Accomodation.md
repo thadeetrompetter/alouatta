@@ -1,6 +1,6 @@
 ## Communal area
 
-In the middle of the garden there's the main building. Here you'll have a fully equipped communal kitchen 
+In the middle of the garden there's our main building. Here you'll have a fully equipped communal kitchen 
 at your disposal, as well as tidy bathrooms. There are hammocks, books, boardgames and free Wifi available. 
 If you want you can enjoy our homemade breakfast (with ingredients from our own garden) for a fair price. 
 

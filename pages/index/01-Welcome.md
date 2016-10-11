@@ -15,10 +15,6 @@ We offer you a basic, but comfortable and unique stay in our own little jungle n
 In the middle of nature, but with all the facilities you need. A place where you feel at ease, can undertake activities 
 with or without us and will be welcomed anytime. 
 
-The sleeping places we provide are furnished tents with comfortable beds. You'll have a fully equipped communal kitchen 
-at your disposal, as well as tidy bathrooms. In the communal area there's books, boardgames and free Wifi available. 
-If you want you can enjoy our homemade breakfast (with ingredients from our own garden) for a fair price. 
-
 Scroll down the rest of the website for an impression of our hostel and 
 the many interesting activities you can find around this beautiful place. 
 

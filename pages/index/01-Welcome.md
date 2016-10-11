@@ -4,7 +4,8 @@ Alouatta
 Welcome to the site of Hostel Alouatta!
 
 ## A paradise in Costa Rica
-Imagine a safari tent in a green garden full of fruit trees. Surrounded by birds, iguanas and _alouatta's_ (howler monkeys). 
+
+Imagine a safari tent in a green garden full of fruit trees, surrounded by birds, iguanas and _alouatta's_ (howler monkeys). 
 A walk down the road brings you to a beautiful, quiet beach.
 
 We have found this paradise on earth, and we'd love to share it with you.

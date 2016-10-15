@@ -1,20 +1,18 @@
 @import (reference) "../core-styles/variables";
+@import (reference) "../core-styles/layout";
+
 .section {
+    &:extend(.section-dimensions all);
     font-size: 1.7rem;
     margin-bottom: 7rem;
-
     .content {
-        position: relative;
-        padding: 17rem 1rem 2rem;
-
+        padding-top: 17rem;
+        padding-bottom: 2rem;
     }
     &.has-hero {
         .content {
             padding-top: 2rem;
         }
-    }
-    .hostelz {
-        margin-top: 2rem;
     }
 
     @media all and (max-width: @breakpoint-hamburguesa-1px) {
@@ -24,7 +22,6 @@
     @media all and (min-width: @breakpoint-small){
         .content {
             font-size: 1.8rem;
-            width: @breakpoint-small-content-width;
         }
     }
     @media all and (min-width: @breakpoint-medium){
@@ -32,10 +29,4 @@
             font-size: 1.9rem;
         }
     }
-    @media all and (min-width: @breakpoint-max-content-width){
-        .content {
-            width: @max-content-width;
-        }
-    }
-
 }

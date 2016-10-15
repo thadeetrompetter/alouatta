@@ -15,3 +15,21 @@ body {
 .centered {
     margin: 0 auto;
 }
+
+.section-dimensions {
+    .content {
+        position: relative;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+    @media all and (min-width: @breakpoint-small){
+        .content {
+            width: @breakpoint-small-content-width;
+        }
+    }
+    @media all and (min-width: @breakpoint-max-content-width){
+        .content {
+            width: @max-content-width;
+        }
+    }
+}

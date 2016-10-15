@@ -17,7 +17,7 @@
             {% block content %}{% endblock %}
             </main>
             {%- block footer %}
-
+              {% include "components/footer/footer.html" %}
             {% endblock -%}
             {% block scripts %}
                 <script async src="https://maps.googleapis.com/maps/api/js?callback=initMap"></script>

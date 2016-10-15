@@ -1,6 +1,16 @@
 {
     "page": {
-        "googleApiKey":"AIzaSyAGUOUtkIN-SYs5OYiQqN5YXplutQpt5GI"
+        "googleApiKey":"AIzaSyAGUOUtkIN-SYs5OYiQqN5YXplutQpt5GI",
+        "social":{
+          "facebook":{
+            "url":"http://www.facebook.com/hostelalouatta",
+            "title":"Alouatta hostel on facebook"
+          },
+          "instagram":{
+            "url": "http://www.instagram.com/hostel.alouatta",
+            "title":"Alouatta hostel on instagram"
+          }
+        }
     },
     "welcome": {
         "title":"Welcome",
@@ -27,16 +37,6 @@
     },
     "contact": {
         "title":"Contact",
-        "social":{
-            "facebook":{
-                "url":"http://www.facebook.com/hostelalouatta",
-                "title":"Alouatta hostel on facebook"
-            },
-            "instagram":{
-                "url": "http://www.instagram.com/hostel.alouatta",
-                "title":"Alouatta hostel on instagram"
-            }
-        },
         "background": "section-sunrise",
         "map":{
             "latitude": 9.784543,

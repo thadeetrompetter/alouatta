@@ -1,0 +1,21 @@
+.image {
+    max-width: 100%;
+    &.left {
+        padding-right: 2rem;
+        float: left;
+    }
+    p > &.left {
+        padding: 2rem 2rem 2rem 0;
+    }
+    &.right {
+        padding-left: 2rem;
+        float: right;
+    }
+    p > &.right {
+        padding: 2rem 0 2rem 2rem;
+    }
+    &.center {
+        display: block;
+        margin: 0 auto;
+    }
+}

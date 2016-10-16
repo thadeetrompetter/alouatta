@@ -20,10 +20,10 @@ A bit further away, at about 1,5 hours driving, there's a hidden gem. Undiscover
 ### Bird watching
 Costa Rica is known for it's many and colourful birds. Around Playa Coyote (which is at the end of an estuary) there's many different species to be found. You can spot seabirds, mangrovebirds and a lot of forestbirds. And you will hear the soothing sound of hummingbirds, because they're all around.
 
-## Sports 
+## Sports
 
 ### Surfing
-At Playa Coyote there's a nice and gentle wave for the starting surfer. If the swell is strong enough there's a lot of fun for the intermediate surfer and if you're a pro, you can use these swells to go more out into sea. Here is a well known surfer's secret called Punta Coyote. An underwater reef gives an excellent left break here.
+At Playa Coyote there's a nice and gentle wave for the starting surfer. If the swell is strong enough there's a lot of fun for the intermediate surfer and if you're a pro, you can use these swells to go more out into sea. Here is a well known surfer's secret called Punta Coyote. An underwater reef gives an excellent left break here. ![lifestyle upgrade](//s3-eu-west-1.amazonaws.com/alouatta/r-playa.jpg "you want it:left")
 
 ### Canoeing
 At a distance of 15 minutes walking you can rent a canoe (10 dollars per person for a whole day) to go up the mysterious, eerie mangrove to watch swamp birds or, for a rougher adventure, out to sea. We can instruct you if necessary.
@@ -34,4 +34,3 @@ At the "Casa Caletas" hotel you can do horseback tours crossing the beautiful be
 ### Hiking
 In the surroundings of the hostel you can make nice hikes, to the beach and further along the coast. Between Playa Coyote and Playa Caletas lies a Peninsula which you can climb for beautiful views over the beaches.
 See also the [Karen Mogenson Park](http://www.tripadvisor.com/Attraction_Review-g7684098-d8504916-Reviews-Karen_Mogensen_Nature_Reserve-Jicaral_Province_of_Puntarenas.html)
-

@@ -23,7 +23,7 @@ Costa Rica is known for it's many and colourful birds. Around Playa Coyote (whic
 ## Sports
 
 ### Surfing
-At Playa Coyote there's a nice and gentle wave for the starting surfer. If the swell is strong enough there's a lot of fun for the intermediate surfer and if you're a pro, you can use these swells to go more out into sea. Here is a well known surfer's secret called Punta Coyote. An underwater reef gives an excellent left break here. ![lifestyle upgrade](//s3-eu-west-1.amazonaws.com/alouatta/r-playa.jpg "you want it:left")
+At Playa Coyote there's a nice and gentle wave for the starting surfer. If the swell is strong enough there's a lot of fun for the intermediate surfer and if you're a pro, you can use these swells to go more out into sea. Here is a well known surfer's secret called Punta Coyote. An underwater reef gives an excellent left break here. 
 
 ### Canoeing
 At a distance of 15 minutes walking you can rent a canoe (10 dollars per person for a whole day) to go up the mysterious, eerie mangrove to watch swamp birds or, for a rougher adventure, out to sea. We can instruct you if necessary.

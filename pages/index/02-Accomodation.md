@@ -13,6 +13,8 @@ The shared tent has 4 beds. The 2 private tents are equipped with double beds, s
 
 ### Price per person per night  
 
+
+
 | Persons | Shared tent (1-4 persons) | Private tent (1-2 persons + 1 child) |
 | --- | --- | --- |
 | 1 | $17.50 | $48.00 |
@@ -20,3 +22,7 @@ The shared tent has 4 beds. The 2 private tents are equipped with double beds, s
 | 3 | $52.50 |   |
 | 4 | $70.00 |   |
 | With child |   |$58.00|
+
+Camping with own equipment and use of kitchen, showers and toilet on the property is possible for $9.00 per person.
+
+# [**BOOK NOW**](mailto:info@alouatta.org)

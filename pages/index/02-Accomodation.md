@@ -6,7 +6,7 @@ If you want you can enjoy our homemade breakfast (with ingredients from our own 
 
 ## Sleeping
 
-The sleeping quarters are fully furnished safari tents overlooking the garden, with two of them having oceanview.
+The sleeping quarters are fully furnished safari tents overlooking the garden, with one of them having oceanview.
 
 We have 3 tents available, 2 private ones and 1 shared.  
 The shared tent has 4 beds. The 2 private tents are equipped with double beds, suited for couples. All the tents are for non-smokers and are equipped with powerplug, light and ventilator. Bedsheets are provided, all tents are cleaned daily.

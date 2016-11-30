@@ -24,6 +24,6 @@ The shared tent has 4 beds. The 2 private tents are equipped with double beds, s
 | With child |   |$58.00|  
 
 
-Camping with own equipment and use of kitchen, showers and toilet on the property is possible for $9.00 per person.
+Camping with own equipment and use of kitchen, showers and toilet on the property is possible for $8.00 per person.
 
 # ---> [**BOOK NOW!!**](mailto:info@alouatta.org) <---

@@ -7,7 +7,7 @@ Costa Rica is home to countless species of animals and plants. A Whopping 2% of 
 ### Turtle protection camp
 The beach next to Playa Coyote is called "Playa Caletas" and is a protected nesting site for the _Olive ridley turtle_ and the (more endangered and seldomly seen) _Green leatherback turtle_.
 
-A beautiful organisation works at this beach with volunteers to protect these magnificent animals. They will be happy to give you a night tour on the beach, seeing the turtles lay their eggs and, if you are lucky, you can even help young hatchlings with their first swim into the great Pacific ocean. This all for a small fee of 10 dollars, which will be used for the good of the organisation.
+A beautiful organisation works at this beach with volunteers to protect these magnificent animals. They will be happy to give you a night tour on the beach, seeing the turtles lay their eggs and, if you are lucky, you can even help young hatchlings with their first swim into the great Pacific ocean.
 
 ### Butterfly farm
 At 20 minutes driving our friend Mike is running his open air [Butterfly farm](https://www.facebook.com/junglebutterflyfarm). As an avid entomologist living in Costa Rica for many years,  he has a very extensive knowledge about the local environment and it's animals.

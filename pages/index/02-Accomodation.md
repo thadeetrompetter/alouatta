@@ -15,7 +15,7 @@ The shared tent has 4 beds. The 2 private tents are equipped with double beds, s
 
 
 
-| Persons | Shared tent (1-4 persons) | Private tent (1-2 persons|
+| Persons | Shared tent (1-4 persons) | Private tent (1-2 persons)|
 | --- | --- | --- |
 | 1 | $17.50 | $48.00 |
 | 2 | $35.00 | $48.00 |

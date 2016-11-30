@@ -28,6 +28,9 @@ At Playa Coyote there's a nice and gentle wave for the starting surfer. If the s
 ### Canoeing
 At a distance of 15 minutes walking you can rent a canoe (10 dollars per person for a whole day) to go up the mysterious, eerie mangrove to watch swamp birds or, for a rougher adventure, out to sea. We can instruct you if necessary.
 
+### Sportfishing
+In Puerto Coyote there's a very friendly fisherman called 'Chico', who organises fishing trips out onto sea. For $50 an hour he provides boat, fishing gear and knowledge about good fishing spots for up to 3 persons, regardless if you go alone or with 3. Here it's possible to catch Red Snapper, Marlin, Yellowfin Tuna and even the prized Sailfish. 
+
 ### Horseback riding
 At the "Casa Caletas" hotel you can do horseback tours crossing the beautiful beach, guided by a local "ranchero"
 

@@ -7,6 +7,7 @@
         <meta name="full-js" content="/assets/main.js">
         <link rel="stylesheet" href="/assets/main.css" media="screen">
         <title>{%- block title %}Alouatta{% endblock -%}</title>
+        {%- include "components/google-analytics/google-analytics.html" %}
     </head>
     <body {% block bodyAttributes %}{% endblock -%}>
         {%- block body %}

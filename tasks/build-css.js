@@ -5,7 +5,7 @@ var autoprefix = require('gulp-autoprefixer'),
     less = require('gulp-less'),
     minify = require('gulp-minify-css'),
     sourcemaps = require('gulp-sourcemaps'),
-    syncAssets = require('lib/helpers').syncAssets;
+    syncAssets = require('../lib/helpers').syncAssets;
 
 module.exports = function buildCss(opts) {
     var options = opts || {},

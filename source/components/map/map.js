@@ -2,7 +2,7 @@
 
 var ATTRIBUTE = 'data-map',
     SELECTOR = '[' + ATTRIBUTE + ']',
-    awaitModule = require('lib/await-module'),
+    awaitModule = require('../../../lib/await-module'),
     elements = document.querySelectorAll(SELECTOR);
 
 function Map(element) {

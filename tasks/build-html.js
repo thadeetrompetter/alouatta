@@ -1,12 +1,12 @@
 var config = require('../config'),
     gulp = require('gulp'),
-    inlineMinify = require('lib/inline-minify'),
-    md = require('lib/md'),
-    meta = require('lib/meta'),
-    pathToDistRoot = require('lib/helpers').pathToDistRoot,
+    inlineMinify = require('../lib/inline-minify'),
+    md = require('../lib/md'),
+    meta = require('../lib/meta'),
+    pathToDistRoot = require('../lib/helpers').pathToDistRoot,
     prettify = require('gulp-html-prettify'),
-    syncAssets = require('lib/helpers').syncAssets,
-    template = require('lib/template-render');
+    syncAssets = require('../lib/helpers').syncAssets,
+    template = require('../lib/template-render');
 
 module.exports = function buildHtml(opts) {
     var options = opts || {},

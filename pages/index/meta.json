@@ -29,7 +29,9 @@
     },
     "gallery": {
         "background":"section-welcome",
-        "title":"Gallery"
+        "title":"Gallery",
+        "gallery":true,
+        "disabled":true
     },
     "our-story":{
       "title":"Our story",

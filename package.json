@@ -1,6 +1,6 @@
 {
   "name": "alouatta",
-  "version": "3.2.8",
+  "version": "3.2.9",
   "description": "alouatta.org website",
   "main": "index.js",
   "scripts": {

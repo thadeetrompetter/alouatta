@@ -47,9 +47,6 @@ Hero.prototype.getViewportSize = function () {
         return 'xl';
     }
 };
-function getBackgroundImageCSS(image) {
-    return ['url(', image, ')'].join('');
-}
 
 [].slice.call(elements).forEach(function (element) {
     new Hero(element);

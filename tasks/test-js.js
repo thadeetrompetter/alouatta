@@ -1,31 +1,17 @@
-var config = require('../config'),
+'use strict';
+var eslint = require('gulp-eslint'),
     gulp = require('gulp'),
-    gutil = require('gulp-util'),
-    jscs = require('gulp-jscs'),
-    jshint = require('gulp-jshint'),
     lazypipe = require('lazypipe'),
-    stylish = require('jshint-stylish'),
-    paths = config.paths;
+    paths = require('../config').paths;
 
-var actions = {
-    hint: lazypipe()
-            .pipe(jshint)
-            .pipe(jshint.reporter, stylish)
-            .pipe(jshint.reporter, 'fail'),
-    style: lazypipe()
-            .pipe(jscs)
-};
+var lint = lazypipe()
+            .pipe(eslint, {
+                configFile: paths.eslint
+            })
+            .pipe(eslint.format)
+            .pipe(eslint.failAfterError);
 
-module.exports = function (opts) {
-    'use strict';
-    var options = opts || {},
-        action = actions[options.action];
-
-    if(!action){
-        gutil.log('run subtasks :style or :hint');
-        action = gutil.noop;
-    }
-
+module.exports = function () {
     return gulp.src(paths.jsFiles)
-        .pipe(action());
+        .pipe(lint());
 };

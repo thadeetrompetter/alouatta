@@ -18,6 +18,7 @@ module.exports = {
             './source/**/*.js',
             '!./source/components/*/assets/**/*.js'
         ],
+        eslint: './source/.eslintrc.json',
         htmlFiles: [
             './source/**/*.html',
             './pages/**/*.md'
